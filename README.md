@@ -28,8 +28,8 @@ Refer to DAA_Problem10 for the full problem statement.
 ## Setup
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <REPOSITORY_NAME>
+git clone https://github.com/shyamalborgohain/DAAproject.git
+cd DAAproject
 ```
 
 ## Usage
